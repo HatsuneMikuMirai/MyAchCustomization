@@ -1,11 +1,11 @@
 #!/bin/bash
 
-pacman -S nautilus
+pacman -S dolphin
 pacman -S gnome-system-monitor
 pacman -S xdg-user-dirs
 pacman -S xdg-desktop-portal-gtk
 pacman -S xdg-desktop-portal-gnome
-pacman -S firefox
+pacman -S vivaldi
 pacman -S gnome-calendar
 pacman -S gnome-characters
 pacman -S gnome-font-viewer
@@ -17,7 +17,7 @@ pacman -S yt-dlp
 pacman -S git
 pacman -S obs-studio
 pacman -S flatpak
-pacman -S celluloid
+pacman -S vlc
 pacman -S goverlay
 pacman -S power-profiles-daemon
 pacman -S chromium
